@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+./react-ejercicio1/node_modules
+./react-ejercicio1/.pnp
+./react-ejercicio1/.pnp.js
+
+# testing
+./react-ejercicio1/coverage
+
+# production
+./react-ejercicio1/build
+
+# misc
+./react-ejercicio1/.DS_Store
+./react-ejercicio1/.env.local
+./react-ejercicio1/.env.development.local
+./react-ejercicio1/.env.test.local
+./react-ejercicio1/.env.production.local
+
+./react-ejercicio1/npm-debug.log*
+./react-ejercicio1/yarn-debug.log*
+./react-ejercicio1/yarn-error.log*
