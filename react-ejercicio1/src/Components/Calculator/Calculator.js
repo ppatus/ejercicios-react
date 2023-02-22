@@ -1,6 +1,8 @@
 import { useState } from "react";
 import { Row, Form, Button } from "react-bootstrap";
 import Result from "./Result.js";
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 function Calculator(props){
     const [A, setA] = useState("");
